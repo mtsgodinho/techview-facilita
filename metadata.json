@@ -1,0 +1,8 @@
+{
+  "name": "ZapFlow SaaS - WhatsApp Management",
+  "description": "A high-performance SaaS platform for WhatsApp communication, featuring QR code connection, template management, and multimedia messaging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
